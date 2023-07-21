@@ -1,4 +1,4 @@
-# firebase-reactjs--Auth
+# firebase-reactjs--Auth (BASIC&INSECURE)
 firebase-based emailandpassword auth + user auth state management by redux
 <br><br>
 this very basic insecure way of managing the user's auth state by Redux is so bad and here's bunch of reasons:
