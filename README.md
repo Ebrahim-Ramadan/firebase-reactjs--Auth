@@ -1,7 +1,7 @@
 # firebase-reactjs--Auth (BASIC&INSECURE)
 firebase-based emailandpassword auth + user auth state management by redux
 <br><br>
-this very basic insecure way of managing the user's auth state by Redux is so bad and here's bunch of reasons:
+THIS REPO  has this very basic insecure way of managing the user's auth state by Redux is so bad and here's bunch of reasons:
 <br><br>
 1 - Redux is primarily designed for managing application state globally, while route protection is a concern related to navigation and access control. By using ProtectedRoutes, you separate the concerns of authentication and authorization from the application state management, making your codebase more modular and easier to maintain.
 <br><br>
